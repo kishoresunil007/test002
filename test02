@@ -1,0 +1,4 @@
+let name = "Kishore";
+
+console.log("Hello Windows!");
+console.log("My name is " + name);
